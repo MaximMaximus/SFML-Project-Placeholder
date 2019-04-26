@@ -5,3 +5,4 @@ The motivation is to create a game which is based on the standard shape function
 I try to implement new gameplay mechanics and features every 2-3 Weeks.
 
 ![](test3.gif)
+![](idel.gif)
